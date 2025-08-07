@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Directory e DirectoryInfo/1.0.0": {
+        "dependencies": {
+          "FileInfo": "1.0.0"
+        },
+        "runtime": {
+          "Directory e DirectoryInfo.dll": {}
+        }
+      },
+      "FileInfo/1.0.0": {
+        "runtime": {
+          "FileInfo.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Directory e DirectoryInfo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FileInfo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
