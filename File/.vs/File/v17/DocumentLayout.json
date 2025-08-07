@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "A:\\MACORATTI_C#_ESSENCIAL\\Arquivos, Diretorios e streams\\File\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{78A57397-D7A6-4337-8577-D7277A8FA3F7}|File.csproj|a:\\macoratti_c#_essencial\\arquivos, diretorios e streams\\file\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78A57397-D7A6-4337-8577-D7277A8FA3F7}|File.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BF69C190-87E4-4994-965C-FB78CC86275B}|..\\Directory_2\\Directory_2.csproj|a:\\macoratti_c#_essencial\\arquivos, diretorios e streams\\directory_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -26,6 +30,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "A:\\MACORATTI_C#_ESSENCIAL\\Arquivos, Diretorios e streams\\File\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "A:\\MACORATTI_C#_ESSENCIAL\\Arquivos, Diretorios e streams\\File\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T19:37:11.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "A:\\MACORATTI_C#_ESSENCIAL\\Arquivos, Diretorios e streams\\Directory_2\\Program.cs",
               "RelativeDocumentMoniker": "..\\Directory_2\\Program.cs",
               "ToolTip": "A:\\MACORATTI_C#_ESSENCIAL\\Arquivos, Diretorios e streams\\Directory_2\\Program.cs",
@@ -37,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "A:\\MACORATTI_C#_ESSENCIAL\\Arquivos, Diretorios e streams\\Directory e DirectoryInfo\\Program.cs",
               "RelativeDocumentMoniker": "..\\Directory e DirectoryInfo\\Program.cs",
@@ -45,8 +62,7 @@
               "RelativeToolTip": "..\\Directory e DirectoryInfo\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T18:02:47.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-07T18:02:47.585Z"
             }
           ]
         }
