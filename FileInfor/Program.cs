@@ -31,3 +31,6 @@ else
 
 Console.WriteLine($"\nMovendo {caminhoOrigem} para a {caminhoDestino}");
 arquivoOrigem.MoveTo(caminhoDestino);
+
+Console.ReadKey();
+
