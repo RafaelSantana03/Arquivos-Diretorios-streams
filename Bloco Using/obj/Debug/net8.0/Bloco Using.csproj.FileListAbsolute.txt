@@ -1,0 +1,15 @@
+A:\MACORATTI_C#_ESSENCIAL\Arquivos, Diretorios e streams\Bloco Using\bin\Debug\net8.0\Bloco Using.exe
+A:\MACORATTI_C#_ESSENCIAL\Arquivos, Diretorios e streams\Bloco Using\bin\Debug\net8.0\Bloco Using.deps.json
+A:\MACORATTI_C#_ESSENCIAL\Arquivos, Diretorios e streams\Bloco Using\bin\Debug\net8.0\Bloco Using.runtimeconfig.json
+A:\MACORATTI_C#_ESSENCIAL\Arquivos, Diretorios e streams\Bloco Using\bin\Debug\net8.0\Bloco Using.dll
+A:\MACORATTI_C#_ESSENCIAL\Arquivos, Diretorios e streams\Bloco Using\bin\Debug\net8.0\Bloco Using.pdb
+A:\MACORATTI_C#_ESSENCIAL\Arquivos, Diretorios e streams\Bloco Using\obj\Debug\net8.0\Bloco Using.GeneratedMSBuildEditorConfig.editorconfig
+A:\MACORATTI_C#_ESSENCIAL\Arquivos, Diretorios e streams\Bloco Using\obj\Debug\net8.0\Bloco Using.AssemblyInfoInputs.cache
+A:\MACORATTI_C#_ESSENCIAL\Arquivos, Diretorios e streams\Bloco Using\obj\Debug\net8.0\Bloco Using.AssemblyInfo.cs
+A:\MACORATTI_C#_ESSENCIAL\Arquivos, Diretorios e streams\Bloco Using\obj\Debug\net8.0\Bloco Using.csproj.CoreCompileInputs.cache
+A:\MACORATTI_C#_ESSENCIAL\Arquivos, Diretorios e streams\Bloco Using\obj\Debug\net8.0\Bloco Using.sourcelink.json
+A:\MACORATTI_C#_ESSENCIAL\Arquivos, Diretorios e streams\Bloco Using\obj\Debug\net8.0\Bloco Using.dll
+A:\MACORATTI_C#_ESSENCIAL\Arquivos, Diretorios e streams\Bloco Using\obj\Debug\net8.0\refint\Bloco Using.dll
+A:\MACORATTI_C#_ESSENCIAL\Arquivos, Diretorios e streams\Bloco Using\obj\Debug\net8.0\Bloco Using.pdb
+A:\MACORATTI_C#_ESSENCIAL\Arquivos, Diretorios e streams\Bloco Using\obj\Debug\net8.0\Bloco Using.genruntimeconfig.cache
+A:\MACORATTI_C#_ESSENCIAL\Arquivos, Diretorios e streams\Bloco Using\obj\Debug\net8.0\ref\Bloco Using.dll
