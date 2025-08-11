@@ -1,0 +1,15 @@
+A:\MACORATTI_C#_ESSENCIAL\Arquivos, Diretorios e streams\FileStream, StreamReader e StreamWriter\bin\Debug\net8.0\FileStream, StreamReader e StreamWriter.exe
+A:\MACORATTI_C#_ESSENCIAL\Arquivos, Diretorios e streams\FileStream, StreamReader e StreamWriter\bin\Debug\net8.0\FileStream, StreamReader e StreamWriter.deps.json
+A:\MACORATTI_C#_ESSENCIAL\Arquivos, Diretorios e streams\FileStream, StreamReader e StreamWriter\bin\Debug\net8.0\FileStream, StreamReader e StreamWriter.runtimeconfig.json
+A:\MACORATTI_C#_ESSENCIAL\Arquivos, Diretorios e streams\FileStream, StreamReader e StreamWriter\bin\Debug\net8.0\FileStream, StreamReader e StreamWriter.dll
+A:\MACORATTI_C#_ESSENCIAL\Arquivos, Diretorios e streams\FileStream, StreamReader e StreamWriter\bin\Debug\net8.0\FileStream, StreamReader e StreamWriter.pdb
+A:\MACORATTI_C#_ESSENCIAL\Arquivos, Diretorios e streams\FileStream, StreamReader e StreamWriter\obj\Debug\net8.0\FileStream, StreamReader e StreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+A:\MACORATTI_C#_ESSENCIAL\Arquivos, Diretorios e streams\FileStream, StreamReader e StreamWriter\obj\Debug\net8.0\FileStream, StreamReader e StreamWriter.AssemblyInfoInputs.cache
+A:\MACORATTI_C#_ESSENCIAL\Arquivos, Diretorios e streams\FileStream, StreamReader e StreamWriter\obj\Debug\net8.0\FileStream, StreamReader e StreamWriter.AssemblyInfo.cs
+A:\MACORATTI_C#_ESSENCIAL\Arquivos, Diretorios e streams\FileStream, StreamReader e StreamWriter\obj\Debug\net8.0\FileStream, StreamReader e StreamWriter.csproj.CoreCompileInputs.cache
+A:\MACORATTI_C#_ESSENCIAL\Arquivos, Diretorios e streams\FileStream, StreamReader e StreamWriter\obj\Debug\net8.0\FileStream, StreamReader e StreamWriter.sourcelink.json
+A:\MACORATTI_C#_ESSENCIAL\Arquivos, Diretorios e streams\FileStream, StreamReader e StreamWriter\obj\Debug\net8.0\FileStream, StreamReader e StreamWriter.dll
+A:\MACORATTI_C#_ESSENCIAL\Arquivos, Diretorios e streams\FileStream, StreamReader e StreamWriter\obj\Debug\net8.0\refint\FileStream, StreamReader e StreamWriter.dll
+A:\MACORATTI_C#_ESSENCIAL\Arquivos, Diretorios e streams\FileStream, StreamReader e StreamWriter\obj\Debug\net8.0\FileStream, StreamReader e StreamWriter.pdb
+A:\MACORATTI_C#_ESSENCIAL\Arquivos, Diretorios e streams\FileStream, StreamReader e StreamWriter\obj\Debug\net8.0\FileStream, StreamReader e StreamWriter.genruntimeconfig.cache
+A:\MACORATTI_C#_ESSENCIAL\Arquivos, Diretorios e streams\FileStream, StreamReader e StreamWriter\obj\Debug\net8.0\ref\FileStream, StreamReader e StreamWriter.dll
