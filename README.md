@@ -18,7 +18,7 @@ Os estudos foram baseados na **Seção 10: Arquivos, Diretórios e Streams** do 
 - Streams com bloco **using**
 - Exercícios práticos de **Streams**
 
-# Conteúdo do curso
+### Conteúdo do curso
 <img width="397" height="749" alt="Captura de tela 2025-08-14 222051" src="https://github.com/user-attachments/assets/72c8fbb8-a4d1-426f-9350-af73f8e75b46" />
 
 
@@ -33,7 +33,7 @@ O repositório inclui **15 exercícios** para prática, como:
 5. Converter imagem para texto codificado Base64.  
 ... e muito mais.
 
-# Lista de Exercícios
+### Lista de Exercícios
 <img width="740" height="938" alt="Captura de tela 2025-08-14 221937" src="https://github.com/user-attachments/assets/0746cbd0-19b5-4f19-8316-b9a10cbb62ea" />
 
 
