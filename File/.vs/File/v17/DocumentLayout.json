@@ -7,10 +7,19 @@
       "RelativeMoniker": "D:0:0:{78A57397-D7A6-4337-8577-D7277A8FA3F7}|File.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BF69C190-87E4-4994-965C-FB78CC86275B}|..\\Directory_2\\Directory_2.csproj|a:\\macoratti_c#_essencial\\arquivos, diretorios e streams\\directory_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CDC40266-8871-4026-98A8-8965171B2EF1}|..\\15_Exercicio\\15_Exercicio.csproj|a:\\macoratti_c#_essencial\\arquivos, diretorios e streams\\15_exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CC3AA28-F0B2-4F7C-9BEF-1E44F3B24B80}|..\\Directory e DirectoryInfo\\Directory e DirectoryInfo.csproj|a:\\macoratti_c#_essencial\\arquivos, diretorios e streams\\directory e directoryinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC57E875-868C-482C-A890-B628FA48582C}|..\\12_Exercicio\\12_Exercicio.csproj|a:\\macoratti_c#_essencial\\arquivos, diretorios e streams\\12_exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51A5D531-8D87-4880-9378-C1D7DCAAF9A1}|..\\14_Exercicio\\14_Exercicio.csproj|a:\\macoratti_c#_essencial\\arquivos, diretorios e streams\\14_exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0F79A7-736F-48D6-97F4-7D89A7D827A0}|..\\13_Exercicio\\13_Exercicio.csproj|a:\\macoratti_c#_essencial\\arquivos, diretorios e streams\\13_exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303B094E-BE3A-4A7E-924D-5C8276F51032}|..\\11_Exercicio\\11_Exercicio.csproj|a:\\macoratti_c#_essencial\\arquivos, diretorios e streams\\11_exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,12 +29,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -34,35 +39,75 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "A:\\MACORATTI_C#_ESSENCIAL\\Arquivos, Diretorios e streams\\File\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAADkAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T19:37:11.18Z",
+              "WhenOpened": "2025-08-19T01:47:41.804Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "A:\\MACORATTI_C#_ESSENCIAL\\Arquivos, Diretorios e streams\\Directory_2\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Directory_2\\Program.cs",
-              "ToolTip": "A:\\MACORATTI_C#_ESSENCIAL\\Arquivos, Diretorios e streams\\Directory_2\\Program.cs",
-              "RelativeToolTip": "..\\Directory_2\\Program.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAUwEcAAAApAAAAAAAAAA==",
+              "DocumentMoniker": "A:\\MACORATTI_C#_ESSENCIAL\\Arquivos, Diretorios e streams\\15_Exercicio\\Program.cs",
+              "RelativeDocumentMoniker": "..\\15_Exercicio\\Program.cs",
+              "ToolTip": "A:\\MACORATTI_C#_ESSENCIAL\\Arquivos, Diretorios e streams\\15_Exercicio\\Program.cs",
+              "RelativeToolTip": "..\\15_Exercicio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T19:13:45.937Z",
+              "WhenOpened": "2025-08-15T01:10:28.017Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\MACORATTI_C#_ESSENCIAL\\Arquivos, Diretorios e streams\\14_Exercicio\\Program.cs",
+              "RelativeDocumentMoniker": "..\\14_Exercicio\\Program.cs",
+              "ToolTip": "A:\\MACORATTI_C#_ESSENCIAL\\Arquivos, Diretorios e streams\\14_Exercicio\\Program.cs",
+              "RelativeToolTip": "..\\14_Exercicio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T01:04:51.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\MACORATTI_C#_ESSENCIAL\\Arquivos, Diretorios e streams\\13_Exercicio\\Program.cs",
+              "RelativeDocumentMoniker": "..\\13_Exercicio\\Program.cs",
+              "ToolTip": "A:\\MACORATTI_C#_ESSENCIAL\\Arquivos, Diretorios e streams\\13_Exercicio\\Program.cs",
+              "RelativeToolTip": "..\\13_Exercicio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T00:57:15.452Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "A:\\MACORATTI_C#_ESSENCIAL\\Arquivos, Diretorios e streams\\Directory e DirectoryInfo\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Directory e DirectoryInfo\\Program.cs",
-              "ToolTip": "A:\\MACORATTI_C#_ESSENCIAL\\Arquivos, Diretorios e streams\\Directory e DirectoryInfo\\Program.cs",
-              "RelativeToolTip": "..\\Directory e DirectoryInfo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "A:\\MACORATTI_C#_ESSENCIAL\\Arquivos, Diretorios e streams\\12_Exercicio\\Program.cs",
+              "RelativeDocumentMoniker": "..\\12_Exercicio\\Program.cs",
+              "ToolTip": "A:\\MACORATTI_C#_ESSENCIAL\\Arquivos, Diretorios e streams\\12_Exercicio\\Program.cs",
+              "RelativeToolTip": "..\\12_Exercicio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T18:02:47.585Z"
+              "WhenOpened": "2025-08-15T00:43:55.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\MACORATTI_C#_ESSENCIAL\\Arquivos, Diretorios e streams\\11_Exercicio\\Program.cs",
+              "RelativeDocumentMoniker": "..\\11_Exercicio\\Program.cs",
+              "ToolTip": "A:\\MACORATTI_C#_ESSENCIAL\\Arquivos, Diretorios e streams\\11_Exercicio\\Program.cs",
+              "RelativeToolTip": "..\\11_Exercicio\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T00:29:51.609Z"
             }
           ]
         }
